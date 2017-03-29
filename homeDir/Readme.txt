@@ -15,7 +15,7 @@ clone the project
 
 then clone the project again into your own personalized folder within homeDir (i would prefer that you use your username and or name)
 
-push your changes into your own personalized folder
+push your changes into your own personalized folder (git clone git@github.com:whatever folder-name)
 
 then when you want to merge to the main directory you'll need to check to make sure that everyone has the current code
 then you can push your code up to the main code
