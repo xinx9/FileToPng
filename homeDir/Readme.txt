@@ -13,6 +13,11 @@ connect to git@github.com:Xinx93/FileToPng.git
 
 clone the project
 
+
+##########################################################################################################################################
+this will change at a later date but for now this is how i was able to conceptualize a way of solving merge conflicts
+##########################################################################################################################################
+
 then clone the project again into your own personalized folder within homeDir (i would prefer that you use your username and or name)
 
 push your changes into your own personalized folder (git clone git@github.com:whatever folder-name)
@@ -21,3 +26,5 @@ then when you want to merge to the main directory you'll need to check to make s
 then you can push your code up to the main code
 we are doing it like this so that we don't run into merge conflicts 
 (which are super annoying and i really hate trying to deal with them)
+
+##########################################################################################################################################
